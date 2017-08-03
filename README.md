@@ -1,6 +1,8 @@
 # json-html
 
-> A simple, safe command to convert json to collapsible html for human inspection.
+> A simple, safe command to convert json to collapsible html for human inspection.  
+
+[![Build Status](https://travis-ci.org/localnerve/json-html.svg?branch=master)](https://travis-ci.org/localnerve/json-html)
 
 Takes json from stdin and writes collapsible html to stdout.
 
