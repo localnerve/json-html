@@ -16,6 +16,8 @@ npm install -g @localnerve/json-html
 ### Run
 ```shell
 cat input.json | json-html >output.html
+// or go at an endpoint directly
+curl 'https://api.example.com/path/item' | json-html >output.html
 ```
 
 ### License
