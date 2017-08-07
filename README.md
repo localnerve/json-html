@@ -4,7 +4,8 @@
 
 [![Build Status](https://travis-ci.org/localnerve/json-html.svg?branch=master)](https://travis-ci.org/localnerve/json-html)
 
-Takes json from stdin and writes collapsible html to stdout.
+A command-line utility that takes json from stdin and writes collapsible html to stdout.  
+This exists to provide an alternative to popular "json viewer" Chrome extensions.
 
 ## Usage
 
