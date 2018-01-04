@@ -1,6 +1,6 @@
 {
   "name": "@localnerve/json-html",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A command to convert json to collapsible html using stdin/out",
   "homepage": "https://github.com/localnerve/json-html#readme",
   "main": "lib/index.js",
@@ -46,6 +46,9 @@
   "dependencies": {
     "jsdom": "^11.1.0",
     "renderjson": "github:localnerve/renderjson"
+  },
+  "devDependencies": {
+    "picklr": "latest"
   },
   "engines": {
     "node": ">= 6.9"
