@@ -1,6 +1,6 @@
 {
   "name": "@localnerve/json-html",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A command to convert json to collapsible html using stdin/out",
   "homepage": "https://github.com/localnerve/json-html#readme",
   "main": "lib/index.js",
