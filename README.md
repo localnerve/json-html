@@ -2,7 +2,7 @@
 
 > A simple, safe command to convert json to collapsible html for human inspection.  
 
-[![Build Status](https://travis-ci.org/localnerve/json-html.svg?branch=master)](https://travis-ci.org/localnerve/json-html)
+![Verify](https://github.com/localnerve/json-html/workflows/Verify/badge.svg)
 
 A command-line utility that takes json from stdin and writes collapsible html to stdout.  
 This exists to provide an alternative to popular "json viewer" Chrome extensions.

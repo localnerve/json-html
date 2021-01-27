@@ -1,0 +1,14 @@
+{
+    "parserOptions": {
+      "ecmaVersion": 6,
+      "ecmaFeatures": {
+        "impliedStrict": true
+      }
+    },
+    "extends": "eslint:recommended",
+    "env": {
+      "node": true
+    },
+    "rules": {
+    }
+}
