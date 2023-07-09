@@ -10,5 +10,6 @@
       "node": true
     },
     "rules": {
-    }
+    },
+    "ignorePatterns": ["node_modules/", "/tmp"]
 }
