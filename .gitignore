@@ -3,3 +3,4 @@ test/_out.html
 tmp
 *.tgz
 package
+.DS_Store
