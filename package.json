@@ -52,7 +52,7 @@
     "picklr": "latest",
     "@eslint/js": "10.0.1",
     "eslint": "^10.8.0",
-    "globals": "17.9.0"
+    "globals": "17.11.0"
   },
   "engines": {
     "node": ">= 22"
