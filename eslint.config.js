@@ -9,6 +9,9 @@ module.exports = [{
   ]
 }, {
   name: 'source',
+  ignores: [
+    'lib/renderjson.js'
+  ],
   files: [
     'bin/**',
     'lib/**'
@@ -16,6 +19,17 @@ module.exports = [{
   languageOptions: {
     globals: {
       ...globals.node
+    }
+  },
+  ...js.configs.recommended
+}, {
+  name: 'old-window-source',
+  files: [
+    'lib/renderjson.js'
+  ],
+  languageOptions: {
+    globals: {
+      ...globals.browser
     }
   },
   ...js.configs.recommended
